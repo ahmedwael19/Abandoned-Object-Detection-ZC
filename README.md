@@ -1,5 +1,5 @@
-# abandoned_luggage
-Detection of abandoned luggage in complex environment
+## This repo is using the code found [here](https://github.com/romain420/abandoned_luggage) by @romain420
+
 
 How to install and use our abandonned luggage detector:
 
