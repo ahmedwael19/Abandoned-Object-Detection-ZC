@@ -3,11 +3,8 @@
 
 How to install and use our abandonned luggage detector:
 
-- Go into the project file with command : 
-```bash
-cd abandoned_luggage
-```
-- After that you should download the model [best.pt](https://perso.esiee.fr/~gueurett/project_e4/best.pt) and place it in the project root.
+
+- Download the model [best.pt](https://perso.esiee.fr/~gueurett/project_e4/best.pt) and place it in the project root.
 - (OPTIONAL), create a new environement
 - then, from a powershell (windows) or a terminal (linux):
 ```bash
